@@ -11,7 +11,7 @@ touch ~/.zshrc; open ~/.zshrc
 
 A text editor should open a .zshrc file. Insert the following in the file:
 
-export email="ardit@example.com"
+export email="example@examplemail.com"
 export password="my_strong_password"
 
 Save and close the text editor. Close Terminal (important). 
