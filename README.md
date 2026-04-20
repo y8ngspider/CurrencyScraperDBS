@@ -2,7 +2,7 @@
 
 A Python automation tool that scrapes live USD/SGD exchange rates from 
 DBS Bank every 60 seconds and sends email alerts when the rate crosses 
-a threshold. Built during my SWE internship at HelloTech (Singapore, 2022).
+a threshold.
 
 ## Stack
 - **Selenium + headless Chrome** for scraping a dynamically rendered page
